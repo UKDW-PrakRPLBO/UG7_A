@@ -1,1 +1,2 @@
-# UG7_A
+# Deskripsi soal
+Bacalah file pada DeskripsiSoal.pdf
